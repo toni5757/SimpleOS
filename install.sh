@@ -1,0 +1,1 @@
+sudo apt-get install make nasm gcc xorriso qemu qemu-system-x86 qemu-system-i386 virtualbox
